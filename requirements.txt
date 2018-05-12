@@ -1,0 +1,3 @@
+echo "--index-url https://pypi.python.org/simple/
+
+-e" > requirements.txt
