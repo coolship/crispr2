@@ -1,0 +1,4 @@
+name: SayHello
+docker:
+  imageName: ubuntu
+  cmd: echo "Hello, world!"

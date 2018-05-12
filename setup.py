@@ -8,7 +8,7 @@ setup(
     license = "MIT",
     keywords = "zlab",
     url = "http://github.com/coolship/nishimasu18",
-    install_requires=['google-cloud-dataflow',"oauth2client<4.0.0"],
+    install_requires=['google-cloud-dataflow',"oauth2client<4.0.0","flask"],
     packages=['']
 )
 
